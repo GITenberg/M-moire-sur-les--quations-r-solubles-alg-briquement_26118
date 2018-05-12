@@ -1,0 +1,30 @@
+_repo: M-moire-sur-les--quations-r-solubles-alg-briquement_26118
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Despeyrous, Théodore
+    alias: Despeyrous, Theodore
+    birthdate: 1815
+    deathdate: 1883
+    gutenberg_agent_id: '31819'
+    url: http://www.gutenberg.org/2009/agents/31819
+description: ''
+gutenberg_bookshelf:
+- Mathematics
+- FR Sciences et Techniques
+gutenberg_issued: '2008-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26118'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Algebra'
+title: Mémoire sur les équations résolubles algébriquement
+url: http://www.gutenberg.org/ebooks/26118
